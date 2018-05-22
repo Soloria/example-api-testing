@@ -12,4 +12,4 @@
 - Create config.ts  
 - Copy class for config.example.ts to config.ts   
 - Set API-key  
-- Run `Run.ps1 or `yarn test`  
+- Run `Run.ps1` or `yarn test`  
