@@ -1,0 +1,20 @@
+{
+  "name": "Project",
+  "version": "1.0.0",
+  "description": "Simple request to google API",
+  "main": "index.js",
+  "author": "Soloria",
+  "license": "MIT",
+  "dependencies": {
+    "@types/mocha": "^5.2.0",
+    "@types/supertest": "^2.0.4",
+    "global": "^4.3.2",
+    "mocha": "^5.1.1",
+    "supertest": "^3.1.0",
+    "typescript": "^2.8.3"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "tsc && mocha"
+  }
+}
