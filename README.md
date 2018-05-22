@@ -1,11 +1,15 @@
 # Example for testing Google Translate API on Typescript
 
-### Preconditions   
+### Dependences
 
-Install Typescript, Mocha and supertest libraries   
-
-`-npm install -g Typescript`  
-`-npm install -g Mocha`  
-`-npm install s`  
+- Yarn 1.6 or above   
+- NodeJS 9.0 or above    
+- TypeScript 2.6 or above (in global)    
+- Mocha 5.1 or above (in global)     
   
-After all you can run script `Run.ps` or use `yarn test`.
+### Install&Run
+
+- Create config.ts  
+- Copy class for config.example.ts to config.ts   
+- Set API-key  
+- Run `Run.ps1 or `yarn test`  
