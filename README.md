@@ -1,6 +1,6 @@
 # Example for testing Google Translate API on Typescript
 
-### Dependences
+### Dependencies
 
 - Yarn 1.6 or above   
 - NodeJS 9.0 or above    
