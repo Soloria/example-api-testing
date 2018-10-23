@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-class TranslateReqest {
+class TranslateRequest {
     static getRequest(req, obj) {
         return req
             .post("/translate/v2")
@@ -8,5 +8,5 @@ class TranslateReqest {
             .send(obj);
     }
 }
-exports.TranslateReqest = TranslateReqest;
-//# sourceMappingURL=TranslateReqest.js.map
+exports.TranslateRequest = TranslateRequest;
+//# sourceMappingURL=TranslateReqeust.js.map
